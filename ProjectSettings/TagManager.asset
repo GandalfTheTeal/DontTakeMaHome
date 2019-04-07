@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Enemy
+  - Item
+  - Pickup
+  - Projectile
+  - Tree
+  - Ground
+  - Barrel
+  - GameOverCanvas
+  - HealAura
+  - PauseMenu
+  - GameCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Enemy
+  - Player
+  - Tree
+  - Ground
+  - Interactibles
+  - Shootable
+  - PlayerOnly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2571723339
+    locked: 0
+  - name: Tree
+    uniqueID: 3952719583
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Squirrels
+    uniqueID: 22855495
+    locked: 0
+  - name: Interactibles
+    uniqueID: 2612745459
+    locked: 0
+  - name: Foreground
+    uniqueID: 3311293517
+    locked: 0

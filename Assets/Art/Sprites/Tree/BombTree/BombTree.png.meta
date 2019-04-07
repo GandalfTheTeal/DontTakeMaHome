@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 1ce34e954d617924daa74554f8e67b0c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SP_BombTree_BranchHandle1
+    21300002: SP_BombTree_BranchHandle2
+    21300004: SP_BombTree_BranchHandle3
+    21300006: SP_BombTree_BranchTopLeft
+    21300008: SP_BombTree_BranchMiddle
+    21300010: SP_BombTree_BranchTopRight
+    21300012: SP_BombTree_BranchBottomLeft
+    21300014: SP_BombTree_BarkBranch
+    21300016: SP_BombTree_BranchBottomRight
+    21300018: SP_BombTree_HollowTop
+    21300020: SP_BombTree_HollowSplash
+    21300022: SP_BombTree_BarkTop
+    21300024: SP_BombTree_HollowBottom
+    21300026: SP_BombTree_BarkMiddle
+    21300028: SP_BombTree_Root
+    21300030: SP_BombTree_BarkEnd
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_BombTree_BranchHandle1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2724
+        width: 215
+        height: 243
+      alignment: 9
+      pivot: {x: 0.4844491, y: 0.10099686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e7c2cb349c734aa69d118a218a154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BranchHandle2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2728
+        width: 216
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48452052, y: 0.09934808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba5ce0777ef21b42addb798392d91de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BranchHandle3
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2712
+        width: 207
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5323026, y: 0.113164224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7dd461c576f2e4fa77a519bca52973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BranchTopLeft
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2126
+        width: 371
+        height: 483
+      alignment: 9
+      pivot: {x: 0.8424466, y: 0.12620756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a0a24382466f74db006fd175daa7d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BranchMiddle
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2268
+        width: 375
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5178309, y: 0.07758487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8525a0b3653c1428a9bf3ddc5f4d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BranchTopRight
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2123
+        width: 355
+        height: 483
+      alignment: 9
+      pivot: {x: 0.17978998, y: 0.13312994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeffd337c3898b4caafff6024f30b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BranchBottomLeft
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1684
+        width: 380
+        height: 310
+      alignment: 9
+      pivot: {x: 0.8607311, y: 0.26272878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8076f4c4426f2e746a4d721d10513fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BarkBranch
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1375
+        width: 627
+        height: 477
+      alignment: 9
+      pivot: {x: 0.54799074, y: 0.058423568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27735d4bb1c9a479bc0c0d72e15206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BranchBottomRight
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1675
+        width: 364
+        height: 309
+      alignment: 9
+      pivot: {x: 0.10504184, y: 0.27278093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfabcdd59cb120459863d4c386af996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_HollowTop
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1121
+        width: 734
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5546598, y: 0.91898936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56d513f94a1e641be08ab1eeb211b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_HollowSplash
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 616
+        width: 460
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb30c7e8c0a2c241ad02ffa8c971769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BarkTop
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1173
+        width: 441
+        height: 341
+      alignment: 9
+      pivot: {x: 0.49999943, y: 0.12742566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d75d7292fc8b4844a1592af2722e118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_HollowBottom
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 530
+        width: 472
+        height: 326
+      alignment: 9
+      pivot: {x: 0.46458298, y: 0.120538816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f308aecd870fe6140895909e8616ed6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BarkMiddle
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 613
+        width: 567
+        height: 453
+      alignment: 9
+      pivot: {x: 0.49410316, y: 0.07193135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b9b2a270db6d40b12083fecea2ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_Root
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 45
+        width: 1081
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5432997, y: 0.37658742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd590cdb12897714d94aa0a1e3b6ccc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_BombTree_BarkEnd
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 89
+        width: 587
+        height: 376
+      alignment: 9
+      pivot: {x: 0.4943041, y: 0.09986372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe4a5d112648b4f9840d93db8c36b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f8bf76fd04542042943cca0d69d4227
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

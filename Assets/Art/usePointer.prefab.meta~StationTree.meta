@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<< develop
+guid: e26cac14806c4be4180b76c207b37dbf
+=======
+guid: 90ce491e87069b24cbe1db299ea7b75f
+>>>>>>> Adjusted some scripts, started prefabs, and implemented a bit of UI
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

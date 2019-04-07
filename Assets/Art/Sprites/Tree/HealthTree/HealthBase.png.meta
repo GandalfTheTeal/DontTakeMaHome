@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 0c7ba19db1f86644a9a4f1b06926e503
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SP_HealthTree_Bush1
+    21300002: SP_HealthTree_Bush3
+    21300004: SP_HealthTree_TopRightBranch
+    21300006: SP_HealthTree_Bush2
+    21300008: HealthBase_4
+    21300010: HealthBase_5
+    21300012: SP_HealthTree_BottomRightBranch
+    21300014: SP_HealthTree_TopLeftBranch
+    21300016: SP_HealthTree_CenterBark
+    21300018: SP_HealthTree_BottomLeftBranch
+    21300020: SP_HealthTree_BarkOne
+    21300022: HealthBase_11
+    21300024: HealthBase_12
+    21300026: SP_HealthTree_BarkTwo
+    21300028: HealthBase_14
+    21300030: HealthBase_15
+    21300032: SP_HealthTree_Root
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_HealthTree_Bush1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2656
+        width: 371
+        height: 288
+      alignment: 9
+      pivot: {x: 0.54331475, y: 0.10941569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab6e1789764efa49a1ddfc8ce345f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_Bush3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2279
+        width: 576
+        height: 695
+      alignment: 9
+      pivot: {x: 0.54463834, y: 0.046810012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac0766afe53c640bdf077555d275b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_TopRightBranch
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2568
+        width: 313
+        height: 400
+      alignment: 9
+      pivot: {x: 0.294636, y: 0.066116944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb901a838db0d824ab05a7e7f06e18d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_Bush2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2285
+        width: 366
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5439064, y: 0.1344918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de49047356b94945a6e6f30f9d8150b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBase_4
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2493
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f49c996eab6d14a8381a36cb311d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBase_5
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5947a2e5abb4504c9fe1bcfe9c23262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_BottomRightBranch
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2190
+        width: 350
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad389a370bcf36419aa6cba3b9f579f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_TopLeftBranch
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1542
+        width: 246
+        height: 497
+      alignment: 9
+      pivot: {x: 0.86581546, y: 0.066730954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e8249a2a8b864ab1108f777789398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_CenterBark
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1255
+        width: 583
+        height: 857
+      alignment: 9
+      pivot: {x: 0.46692336, y: 0.072473444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb47b6b065198642a6ffc054b0e1386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_BottomLeftBranch
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1148
+        width: 318
+        height: 214
+      alignment: 9
+      pivot: {x: 0.89416367, y: 0.15457524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca6aba6d36baaa43a368e484c4ef378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_BarkOne
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 889
+        width: 508
+        height: 311
+      alignment: 9
+      pivot: {x: 0.44938695, y: 0.1176328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4138f591ad672c42a66133ae15be5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBase_11
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 908
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2298886040ed4fb9afae3ace871ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBase_12
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 823
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f012ec5783c5749a5940c0deb76ec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_BarkTwo
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 333
+        width: 578
+        height: 399
+      alignment: 9
+      pivot: {x: 0.44439548, y: 0.08919431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c260ef10ff724bbb45588e0ee150e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBase_14
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 718
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e0c0006b07a34fb4bf3de207f3501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBase_15
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 674
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7dbe4d3288e9643a8903478983b596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_HealthTree_Root
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 23
+        width: 1319
+        height: 447
+      alignment: 9
+      pivot: {x: 0.45666587, y: 0.3058685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcaaf3288d61904dae101b76425733c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 171690ec2bb71db43b219a3e5323c00a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

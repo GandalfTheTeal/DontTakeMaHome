@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: c28772a2e471cb74894699fa56a0f88d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SP_GunTree_Bark5
+    21300002: SP_GunTree_RoofTop
+    21300004: SP_GunTree_BacksplashTop
+    21300006: SP_GunTree_Bark4
+    21300008: SP_GunTree_ShopTop
+    21300010: SP_GunTree_Bark3
+    21300012: SP_GunTree_Bark9
+    21300014: SP_GunTree_RoofBottom
+    21300016: SP_GunTree_Bark2
+    21300018: SP_GunTree_Bark7
+    21300020: SP_GunTree_Bark8
+    21300022: SP_GunTree_ShopBottom
+    21300024: SP_GunTree_BacksplashBottom
+    21300026: SP_GunTree_Bark1
+    21300028: SP_GunTree_Bark6
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_GunTree_Bark5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1618
+        width: 242
+        height: 408
+      alignment: 9
+      pivot: {x: 0.54632074, y: 0.060406256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7594678f196e44a92cc1d541e1a987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_RoofTop
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1819
+        width: 572
+        height: 168
+      alignment: 9
+      pivot: {x: 0.057101805, y: 0.3265163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b846f152ac4544189606ba53f63770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_BacksplashTop
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1615
+        width: 619
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f4aff80456134dbff1b12542d09d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1292
+        width: 685
+        height: 291
+      alignment: 9
+      pivot: {x: 0.06797908, y: 0.13790086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f916f2c48df3e46b41ff056fee9e95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_ShopTop
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1395
+        width: 582
+        height: 141
+      alignment: 9
+      pivot: {x: 0.064711526, y: 0.67490077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07555642d0e52454983db8683a6156d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1022
+        width: 265
+        height: 211
+      alignment: 9
+      pivot: {x: 0.44923937, y: 0.07498994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9070d91ac946c41a67bb41a3468441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1047
+        width: 168
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5133445, y: 0.17780674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12348df5636b32d48a10a2c467ef705c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_RoofBottom
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1208
+        width: 608
+        height: 168
+      alignment: 9
+      pivot: {x: 0.9314232, y: 0.3532068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4262579ad4d7046a04836f73338dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 567
+        width: 405
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5941055, y: 0.07963863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dabc008c15a724dbcbb42b5ce04752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 608
+        width: 288
+        height: 341
+      alignment: 9
+      pivot: {x: 0.31317267, y: 0.08580236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea072abfd98bde4797148fed9791454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark8
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 852
+        width: 604
+        height: 274
+      alignment: 9
+      pivot: {x: 0.14737888, y: 0.0990712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf312c73f52a445929e6848d17e029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_ShopBottom
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 331
+        width: 588
+        height: 138
+      alignment: 9
+      pivot: {x: 0.94609743, y: 0.6787041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fee31c2ff4f12c409ecbfa952ba29df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_BacksplashBottom
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 374
+        width: 631
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a553087eac56eb54f98040571a687c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 62
+        width: 618
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4600951, y: 0.084828466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd797e93baf3f3e4cb79548fed01160a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_GunTree_Bark6
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 35
+        width: 699
+        height: 299
+      alignment: 9
+      pivot: {x: 0.8752578, y: 0.10260171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c076e3aac5744bd4d95fc18140785482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d646a50ccb3fc4d4db63082aafc9e9d8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

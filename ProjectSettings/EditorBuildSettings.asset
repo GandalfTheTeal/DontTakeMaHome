@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VFS Bumper/VFS_Bumper.unity
+    guid: 0201d78cdee56d740b1518689918e8b2
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 498e563e6723dfa4c94f3eeeb1e54579
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: e44e03ccb51094c468d983e668b8c0fe
+  - enabled: 1
+    path: Assets/Scenes/LevelOne.unity
+    guid: b48037afc44987d49b20083f37a95766
+  - enabled: 0
+    path: Assets/Scenes/PreBetaScene.unity
+    guid: d78268f7958a4ff4b8946b63516f94bb
+  - enabled: 0
+    path: Assets/Scenes/GameplayScene.unity
+    guid: c2a67f6e65399f544b9e6c290a596b9b
+  - enabled: 0
+    path: Assets/Scenes/MilestoneScenes/AlphaScene.unity
+    guid: ae349708f7cec9644b4073325e028c8f
+  - enabled: 0
+    path: Assets/Scenes/MilestoneScenes/PrototypeScene.unity
+    guid: fb3bef0997a43fe4081ddf1a7bcad68d
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/TestScenes/Ethan_Scene/Ethan_Scene.unity
+    guid: 989c47bc791169c4bb7132bfd6df5a87
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: b5a12c82443c54e4bb81466e204535d7
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

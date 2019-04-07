@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 63e5f2abc3621b64f8c56fcdc2a486a8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SP_Squirrel_Scarf
+    21300002: SP_Squirrel_Head
+    21300004: SP_Squirrel_LeftHand
+    21300006: SP_Squirrel_RightHandHolding
+    21300008: SP_Squirrel_TailTip
+    21300010: SP_Squirrel_SpriteSheet_5
+    21300012: SP_Squirrel_RightArm
+    21300014: SP_Squirrel_RightHand
+    21300016: SP_Squirrel_Body
+    21300018: SP_Squirrel_Tail
+    21300020: SP_Squirrel_SpriteSheet_10
+    21300022: SP_Squirrel_SpriteSheet_11
+    21300024: SP_Squirrel_RightFoot
+    21300026: SP_Squirrel_SpriteSheet_13
+    21300028: SP_Squirrel_RightThigh
+    21300030: SP_Squirrel_LeftArm
+    21300032: SP_Squirrel_LeftThigh
+    21300034: SP_Squirrel_LeftFoot
+    21300036: SP_Squirrel_RedScarf
+    21300038: SP_Squirrel_Neck
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_Squirrel_Scarf
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1678
+        width: 324
+        height: 370
+      alignment: 9
+      pivot: {x: 0.4764582, y: 0.49999967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ccdbf01185bb849b208c420eaad0d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_Head
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1634
+        width: 332
+        height: 379
+      alignment: 9
+      pivot: {x: 0.7680368, y: 0.24507661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8297ada9108947b849517761c8913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_LeftHand
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1768
+        width: 162
+        height: 164
+      alignment: 9
+      pivot: {x: 0.67263985, y: 0.73254544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fda2c249bf5e046b4942b0230414c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_RightHandHolding
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1872
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff40f442e4a64469ea39ec48567619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_TailTip
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1337
+        width: 377
+        height: 668
+      alignment: 9
+      pivot: {x: 0.1785319, y: 0.78510565}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe682b99a78384b99adf574f0202a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1615
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76a3693c7e7f894f9a1f249cbebdce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_RightArm
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1232
+        width: 152
+        height: 320
+      alignment: 9
+      pivot: {x: 0.90145063, y: 0.4284912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279b28e32dd89fe41bd910125a756974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_RightHand
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1302
+        width: 113
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5675006, y: 0.7017861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3c7116f8c9e0c468f8290adf5c1ae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_Body
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 578
+        width: 418
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66df1efed3dac343a214c430cd210dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_Tail
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 581
+        width: 626
+        height: 814
+      alignment: 9
+      pivot: {x: 0.5629726, y: 0.49376056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5114063ee5da94fb3e27181d268a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1096
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2747253ba94cec4bb0a36128f087089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1099
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71b3506c2a70a44ab6eaa90641e6cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_RightFoot
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 800
+        width: 178
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f117dbbeda3f14d89c1bea013e7a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1000
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b14820cb630ea64f910bdb7a12043a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_RightThigh
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 464
+        width: 210
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d1fc327dab374e8a49e5d3885fef1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_LeftArm
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 157
+        height: 296
+      alignment: 9
+      pivot: {x: 0.69433284, y: 0.58589566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a434e26faa2d4c8897eb4b57be776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_LeftThigh
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 104
+        width: 287
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebaf0cbf3e6184ca596908f160afa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 108
+        width: 153
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f290f7b340a2f44b8f06c099d5c879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_RedScarf
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 47
+        width: 322
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4474680527c7504f8276fc9275315d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_Squirrel_Neck
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 62
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82adcba5c4eb0b940ac1b530aeb34267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2fb192bc8dcabd949850bdd04c8f0417
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
